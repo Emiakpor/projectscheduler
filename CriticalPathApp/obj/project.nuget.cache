@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7g1goKeBiM1ggKxQaOQcnNx80YziNv3l5/Jnnnit08W1DZBKKLUgg3GNx643aKal7qMk7OSTfUWrIznT8w//rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Swemit\\Documents\\Mobile\\CriticalPathApp\\CriticalPathApp\\CriticalPathApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Swemit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.xamarin.core\\20.1.0.47\\syncfusion.xamarin.core.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\20.1.0.47\\syncfusion.xamarin.gridcommon.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\20.1.0.47\\syncfusion.xamarin.sfcombobox.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.xamarin.sfdatagrid\\20.1.0.47\\syncfusion.xamarin.sfdatagrid.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\syncfusion.xamarin.sfnumerictextbox\\20.1.0.47\\syncfusion.xamarin.sfnumerictextbox.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Swemit\\.nuget\\packages\\xamarin.forms.datagrid\\4.8.0\\xamarin.forms.datagrid.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
